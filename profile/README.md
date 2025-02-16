@@ -1,4 +1,8 @@
-## Hi there, from the VirtualDisplay Team  👋
+## Hi there, from the VirtualDrivers Team  👋
+
+P.s. as a note right now, we're trying to move to virtual drivers over virtual display, to allow for more repositories to fit the theme better. We're not sure how this will effect it if we change the username, so please let us know anyway possible if you're oki with making this change.
+
+Doing projects like these, tend to drain us quite a bit, whether its from the little things to the big, but we're only human and I hope you understand that we try the best we can whilst still keeping our sanity and not letting us drain completely. 
 
 <!--
 
@@ -11,9 +15,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# VirtualDisplay
+# VirtualDrivers
 
-Hey there, welcome to **VirtualDisplay**!  
+Hey there, welcome to **VirtualDrivers**!  
 
 We’re a small team working on cool stuff in the world of virtual display tech. Whether you’re into screen virtualization, exploring how to extend your desktop setup, or just curious, you’re in the right place.  
 
@@ -21,7 +25,7 @@ We’re a small team working on cool stuff in the world of virtual display tech.
 
 ## 🌟 About Us
 
-At VirtualDisplay, we focus on:
+At VirtualDrivers, we focus on:
 
 - **Virtual Displays**: Creating tools to make display virtualization easier and better.
 - **Community**: None of this will be possible without the community, supporting us in finding bugs and motivation.

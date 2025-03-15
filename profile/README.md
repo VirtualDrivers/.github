@@ -33,7 +33,6 @@ At VirtualDrivers, we focus on:
 
 ### Meet the Crew:
 
-- **[Bud](https://github.com/bud3699/)**: The chill core programmer, who just sits down and adds new features.
 - **[Jocke](https://github.com/zjoasan)**: The Idea man, draft builder and programmer.
 - **[MikeTheTech](https://github.com/itsmikethetech)**: Tech enthusiast who oversees design and technical implimentation.
 

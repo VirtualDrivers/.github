@@ -94,7 +94,6 @@ Every contribution, no matter the size, helps us keep building amazing experienc
 - **Dependencies**: Microsoft Visual C++ Redistributable
 
 ### Driver-Specific Requirements
-- **Virtual Audio Driver**: Test signing may be required for beta versions
 - **Virtual Display Driver**: .NET 6.0 Runtime for control application
 - **VirtualBT**: Bluetooth Low Energy capable hardware
 

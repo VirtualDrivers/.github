@@ -127,6 +127,7 @@ We extend our gratitude to:
 - All our contributors, sponsors, and supporters
 - Lune Studio
 - CAMB.ai
+- SignPath.io and The SignPath Foundation
 - The open-source projects that inspire and enable our work
 
 ---
